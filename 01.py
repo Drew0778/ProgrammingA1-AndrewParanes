@@ -2,4 +2,4 @@ word1 = 'Now'
 word2 = 'Learning'
 word3 = 'Coding'
 
-print(Woed1,Word2,Word3)
+print(word1,word2,word3)
